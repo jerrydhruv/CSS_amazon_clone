@@ -1,0 +1,2 @@
+# CSS_amazon_clone
+This is my first Git Repository
